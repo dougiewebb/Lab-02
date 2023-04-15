@@ -9,27 +9,25 @@ let name = prompt("Thanks for stopping by!  What is your name?")
  let answerFour = prompt( "Am I orginally from Alabama?");
  let answerFive = prompt( "Do I like sports");
 
- //Use if / else
- //if 'y' then you are correct
 
  if(answerOne === 'y' || answerOne ==='yes'){ 
-    console.log ("You are correct!");
+    console.log("You are Correct!");
  } else {
-     // if 'n' then you are incorrect
+     
      console.log("You are inccorrect!");
  }  
  
  if(answerTwo === 'y' || answerTwo === 'yes'){
     console.log("You are correct!");
  } else {
-    // if 'n' then you are incorrect
+    
     console.log("You are inccorrect!")
  }
 
  if(answerThree === 'y' || answerThree ==='yes'){ 
-    console.log ("You are correct!");
+    console.log("You are correct!");
  } else {
-     // if 'n' then you are incorrect
+     
      console.log("You are inccorrect!");
  }  
  
@@ -47,6 +45,3 @@ let name = prompt("Thanks for stopping by!  What is your name?")
      console.log("You are inccorrect!");
  } 
  
- //TODO: Give a response with an allert
-
- // Notify user if they are correct
