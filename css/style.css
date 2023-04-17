@@ -1,5 +1,28 @@
 body {
-    background-color: lightblue;
-    text-align: center;
-    width: 80%; text-align: left; margin: auto;
+    background-color: beige;
 }
+
+main {
+    font-size: xx-large;
+    font-family: cursive;
+    margin: 80;
+
+
+}
+header {
+    text-align: center;
+    font-size: x-large;
+
+}
+ol {
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+p {
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+   
